@@ -27,6 +27,8 @@ sansfont: PT Sans
 monofont: Liberation Mono
 ---
 
+# Информация
+
 ## Докладчик
 
 :::::::::::::: {.columns align=center}
@@ -34,10 +36,8 @@ monofont: Liberation Mono
 
   * Глушенок Анна Александровна
   * Студент НПИбд-01-24
-  * Факультет физико-математических и естественных наук
   * Российский университет дружбы народов
   * [1132246844@pfur.ru](mailto:1132246844@pfur.ru)
-  * <https://github.com/aaglushenok>
 
 :::
 ::: {.column width="30%"}
